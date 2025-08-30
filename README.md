@@ -80,13 +80,6 @@ This app works out-of-the-box on cloud platforms. Just connect your repo and dep
 
 ---
 
-## 🌟 Optional Enhancements
-
-* Auto-generate speaker notes
-* Offer prebuilt guidance templates (*sales deck, investor pitch, research summary*)
-* Add live slide previews before download
-* Retry logic + better error handling for unstable APIs
-
 ---
 
 ## 📄 License
